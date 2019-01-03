@@ -1,0 +1,5 @@
+<application>
+  <component name="UISettings">
+    <option name="MERGE_EQUAL_STACKTRACES" value="false" />
+  </component>
+</application>

@@ -1,0 +1,6 @@
+<application>
+  <component name="VisualVMLauncher">
+    <option name="debug" value="true" />
+    <option name="visualVmExecutable" value="/usr/bin/jvisualvm" />
+  </component>
+</application>

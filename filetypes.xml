@@ -1,10 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="part-0-11" type="PLAIN_TEXT" />
       <mapping pattern="abstractID-with-toString-field" type="PLAIN_TEXT" />
+      <mapping pattern="part-0-2" type="PLAIN_TEXT" />
       <mapping pattern="part-0-0" type="PLAIN_TEXT" />
       <mapping pattern="NOTICE" type="PLAIN_TEXT" />
+      <mapping pattern="part-8-0" type="PLAIN_TEXT" />
+      <mapping pattern="part-0-1" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="abstractID-with-toString-field-set" type="PLAIN_TEXT" />
       <mapping ext="kryo" type="PLAIN_TEXT" />

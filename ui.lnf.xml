@@ -1,5 +1,7 @@
 <application>
   <component name="UISettings">
+    <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="2048" />
     <option name="MERGE_EQUAL_STACKTRACES" value="false" />
+    <option name="OVERRIDE_CONSOLE_CYCLE_BUFFER_SIZE" value="true" />
   </component>
 </application>

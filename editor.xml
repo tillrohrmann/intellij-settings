@@ -1,4 +1,7 @@
 <application>
+  <component name="CodeInsightSettings">
+    <option name="HIGHLIGHT_SCOPE" value="true" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="11" />
   </component>

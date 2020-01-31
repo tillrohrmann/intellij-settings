@@ -28,6 +28,7 @@
       <mapping ext="bcprov-jdk15" type="PLAIN_TEXT" />
       <mapping ext="slf4j" type="PLAIN_TEXT" />
       <mapping ext="arpack_combined_all" type="PLAIN_TEXT" />
+      <mapping ext="automaton" type="PLAIN_TEXT" />
       <mapping ext="slf4j-api" type="PLAIN_TEXT" />
       <mapping ext="antlr" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
@@ -35,8 +36,8 @@
       <mapping ext="protobuf" type="PLAIN_TEXT" />
       <mapping ext="asm" type="PLAIN_TEXT" />
       <mapping ext="servlet-api" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />

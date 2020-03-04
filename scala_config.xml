@@ -4,6 +4,5 @@
   </component>
   <component name="ScalaApplicationSettings">
     <option name="INTRODUCE_VARIABLE_EXPLICIT_TYPE" value="false" />
-    <option name="SPECIFY_RETURN_TYPE_EXPLICITLY" value="ADD" />
   </component>
 </application>

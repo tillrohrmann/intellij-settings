@@ -14,8 +14,8 @@
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.sh</mask>
-    <mask>*.java</mask>
     <mask>*.properties</mask>
     <mask>*.md</mask>
+    <mask>*.java</mask>
   </component>
 </application>

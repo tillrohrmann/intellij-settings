@@ -15,8 +15,8 @@
     <mask>*.js</mask>
     <mask>*.sh</mask>
     <mask>*.properties</mask>
-    <mask>*.java</mask>
     <mask>*.md</mask>
     <mask>*.ts</mask>
+    <mask>*.java</mask>
   </component>
 </application>

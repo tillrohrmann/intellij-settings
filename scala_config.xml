@@ -5,5 +5,6 @@
   <component name="ScalaApplicationSettings">
     <option name="INTRODUCE_VARIABLE_EXPLICIT_TYPE" value="false" />
     <option name="SPECIFY_RETURN_TYPE_EXPLICITLY" value="ADD" />
+    <option name="SUGGEST_LEGACY_IMPORT_LAYOUT" value="false" />
   </component>
 </application>

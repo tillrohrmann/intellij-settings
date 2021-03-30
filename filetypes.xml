@@ -1,8 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
+      <removed_mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping pattern="part-0-1" type="PLAIN_TEXT" />
       <mapping pattern="NOTICE" type="PLAIN_TEXT" />
@@ -26,8 +25,8 @@
       <mapping ext="grizzled-slf4j" type="PLAIN_TEXT" />
       <mapping ext="protobuf" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
-      <mapping ext="servlet-api" type="PLAIN_TEXT" />
       <mapping ext="bcprov-jdk15" type="PLAIN_TEXT" />
+      <mapping ext="servlet-api" type="PLAIN_TEXT" />
       <mapping ext="leveldbjni-all" type="PLAIN_TEXT" />
       <mapping ext="machinist" type="PLAIN_TEXT" />
       <mapping ext="minlog" type="PLAIN_TEXT" />

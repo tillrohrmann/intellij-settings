@@ -5,16 +5,16 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="input" type="PLAIN_TEXT" />
-      <mapping pattern="part-0-1" type="PLAIN_TEXT" />
-      <mapping pattern="NOTICE" type="PLAIN_TEXT" />
-      <mapping pattern="part-0-11" type="PLAIN_TEXT" />
-      <mapping pattern="part-0-0" type="PLAIN_TEXT" />
-      <mapping pattern="part-0-2" type="PLAIN_TEXT" />
       <mapping pattern="part-8-0" type="PLAIN_TEXT" />
       <mapping pattern="resource" type="PLAIN_TEXT" />
-      <mapping pattern="_metadata" type="PLAIN_TEXT" />
       <mapping pattern="abstractID-with-toString-field-set" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="part-0-1" type="PLAIN_TEXT" />
+      <mapping pattern="NOTICE" type="PLAIN_TEXT" />
+      <mapping pattern="part-0-0" type="PLAIN_TEXT" />
+      <mapping pattern="part-0-11" type="PLAIN_TEXT" />
+      <mapping pattern="part-0-2" type="PLAIN_TEXT" />
+      <mapping pattern="_metadata" type="PLAIN_TEXT" />
       <mapping pattern="abstractID-with-toString-field" type="PLAIN_TEXT" />
       <mapping ext="spire" type="PLAIN_TEXT" />
       <mapping ext="avsc" type="PLAIN_TEXT" />

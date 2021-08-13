@@ -1,6 +1,6 @@
 <application>
   <component name="UISettings">
-    <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="2048" />
+    <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="4096" />
     <option name="EDITOR_AA_TYPE" value="Greyscale" />
     <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="MAX_LOOKUP_WIDTH2" value="1105" />
